@@ -1,4 +1,4 @@
-# ICS2O-Template-HTML
+# ICS2O-Unit2-04-JS-Area_and_Perimeter-2
 
 [![GitHub's Super Linter](https://github.com/Kenny-Le-281/ICS2O-Unit2-04-JS-Area_and_Perimeter-2/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Kenny-Le-281/ICS2O-Unit2-04-JS-Area_and_Perimeter-2/actions)
 
