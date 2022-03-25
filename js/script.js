@@ -17,4 +17,4 @@ function calculate () {
 
   // output
   document.getElementById('area').innerHTML = 'The Area of the triangle is: ' + area + ' cm²'
-  }
+}
