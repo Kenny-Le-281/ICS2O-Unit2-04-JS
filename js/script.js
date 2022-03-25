@@ -16,5 +16,5 @@ function calculate () {
   const area = (base * height) / 2
 
   // output
-  document.getElementById('area').innerHTML = 'The Area is: ' + area + ' cm²'
+  document.getElementById('area').innerHTML = 'The Area of the triangle is: ' + area + ' cm²'
   }
