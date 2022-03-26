@@ -4,6 +4,7 @@
 */
 
 'use strict'
+
 /**
  * This function calculates the area and perimeter of the rectangle.
  */
